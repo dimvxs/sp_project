@@ -1,0 +1,6 @@
+Report Information:
+-------------------
+Number of occurrences of banned words:
+rap: 0
+weed: 1
+smoke: 1
